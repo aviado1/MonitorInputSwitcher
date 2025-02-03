@@ -63,8 +63,3 @@ Use it at your own risk. The author is not responsible for any damage or issues 
 ## 📜 Copyright
 - **ControlMyMonitor** is **Copyright (c) 2017 - 2024 Nir Sofer**.
 - **Script Author:** [aviado1](https://github.com/aviado1)
-
----
-
-## 📥 Download
-[Download README.md](https://raw.githubusercontent.com/aviado1/MonitorInputSwitcher/main/README.md)
